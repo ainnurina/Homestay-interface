@@ -1252,7 +1252,8 @@ section.buttons .container-fluid {
     text-align: left;
     display: inline-block;
     /*margin-left: 100px;*/
-    width: 100%;
+    width: 25%;
+    padding-left: 15px;
     /*height: 100px;*/
     line-height: 100px;
 }
